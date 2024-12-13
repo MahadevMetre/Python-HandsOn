@@ -4,5 +4,5 @@ y = 'i will try'
 def myfunc():
     global x  # Declaring 'x' as global
     x = y  # Modifying the global variable 'y'
-
 print(x)
+print(y)
